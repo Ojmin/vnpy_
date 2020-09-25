@@ -1,0 +1,44 @@
+[12:57:47.528.132][8404][INFO][XTP:0][init_log_file]:End: C:/Users/Administrator/Desktop/vnpy_/vnpy/log/trade.log, api version : 2.2.15
+[12:57:47.528.522][8404][INFO][XTP:0]Begin to init trader api.
+[12:57:47.528.545][8404][INFO][XTP:0]Begin to register service function.
+[12:57:47.528.558][8404][DEBUG][XTP:0]register service function ok(3102).
+[12:57:47.528.568][8404][DEBUG][XTP:0]register service function ok(3110).
+[12:57:47.528.577][8404][DEBUG][XTP:0]register service function ok(3114).
+[12:57:47.528.585][8404][DEBUG][XTP:0]register service function ok(3118).
+[12:57:47.528.594][8404][DEBUG][XTP:0]register service function ok(3142).
+[12:57:47.528.754][8404][DEBUG][XTP:0]register service function ok(3146).
+[12:57:47.528.765][8404][DEBUG][XTP:0]register service function ok(3108).
+[12:57:47.528.769][8404][DEBUG][XTP:0]register service function ok(3104).
+[12:57:47.528.773][8404][DEBUG][XTP:0]register service function ok(53).
+[12:57:47.528.777][8404][DEBUG][XTP:0]register service function ok(51).
+[12:57:47.528.781][8404][DEBUG][XTP:0]register service function ok(52).
+[12:57:47.528.785][8404][DEBUG][XTP:0]register service function ok(9).
+[12:57:47.528.789][8404][DEBUG][XTP:0]register service function ok(3132).
+[12:57:47.528.793][8404][DEBUG][XTP:0]register service function ok(3206).
+[12:57:47.528.797][8404][DEBUG][XTP:0]register service function ok(3128).
+[12:57:47.528.801][8404][DEBUG][XTP:0]register service function ok(3126).
+[12:57:47.528.805][8404][DEBUG][XTP:0]register service function ok(3136).
+[12:57:47.528.809][8404][DEBUG][XTP:0]register service function ok(3138).
+[12:57:47.528.813][8404][DEBUG][XTP:0]register service function ok(3148).
+[12:57:47.528.817][8404][DEBUG][XTP:0]register service function ok(3150).
+[12:57:47.528.821][8404][DEBUG][XTP:0]register service function ok(3153).
+[12:57:47.528.825][8404][DEBUG][XTP:0]register service function ok(3156).
+[12:57:47.528.829][8404][DEBUG][XTP:0]register service function ok(3158).
+[12:57:47.528.833][8404][DEBUG][XTP:0]register service function ok(3162).
+[12:57:47.528.837][8404][DEBUG][XTP:0]register service function ok(3160).
+[12:57:47.528.841][8404][DEBUG][XTP:0]register service function ok(3164).
+[12:57:47.528.848][8404][DEBUG][XTP:0]register service function ok(3166).
+[12:57:47.528.852][8404][DEBUG][XTP:0]register service function ok(3168).
+[12:57:47.528.856][8404][DEBUG][XTP:0]register service function ok(3172).
+[12:57:47.528.860][8404][DEBUG][XTP:0]register service function ok(3174).
+[12:57:47.528.864][8404][DEBUG][XTP:0]register service function ok(3170).
+[12:57:47.528.868][8404][INFO][XTP:0]End to register service function 1.
+[12:57:47.528.872][8404][DEBUG][XTP:0]Begin to init terminal info.
+[12:57:47.533.475][8404][DEBUG][XTP:0]End to init terminal info.
+[12:57:47.533.493][8404][DEBUG][XTP:0]Init order manager.
+[12:57:47.533.546][8404][DEBUG][XTP:0]order manager Initialize.
+[12:57:47.554.798][8404][INFO][XTP:0]Init trader api success.
+[12:57:47.554.927][8404][DEBUG][XTP:0]Begin to set software key : b8aa7173bba3470e390d787219b2112e.
+[12:57:47.554.937][8404][DEBUG][XTP:0]Begin to set software version : test111.
+[12:57:47.554.960][8404][INFO][XTP:0]Begin to login to oms server 120.27.164.138:6001.
+[12:57:57.557.318][8404][ERROR][XTP:10210000]53191002029 login to oms server 120.27.164.138:6001 failed.[xtp_trader_private_api.cpp:288][XTP:1]connect server failed.[xbase_login.cpp:31]
